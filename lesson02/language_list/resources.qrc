@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/">
+        <file>icons/text-x-cpp.png</file>
+        <file>icons/text-x-csharp.png</file>
+        <file>icons/text-x-go.png</file>
+        <file>icons/text-x-java.png</file>
+        <file>icons/text-x-javascript.png</file>
+        <file>icons/text-x-php.png</file>
+        <file>icons/text-x-python.png</file>
+    </qresource>
+</RCC>
+
+
+
+
